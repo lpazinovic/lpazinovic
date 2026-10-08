@@ -6,7 +6,7 @@ My current thesis explores an application of o-minimality to deep learning.
 
 ### Selected repositories
 
-- thesis-summary: a summary of my Master's thesis and explanation of its applications to deep learning.
-- pointnet-vs-mlp: compares PointNet to a more standard MLP for point cloud classification.
-- statistics-seminar: a statistical (both descriptive and inferential) analysis of S&P 500 stock trends and Google search trends.
-- data-analysis-intro: a fairly simple data analysis project, which uses some statistics, polynomial regressions and k-means clustering.
+- [thesis-summary](https://github.com/lpazinovic/thesis-summary): a summary of my Master's thesis and explanation of its applications to deep learning.
+- [pointnet-vs-mlp](https://github.com/lpazinovic/pointnet-vs-mlp): compares PointNet to a more standard MLP for point cloud classification.
+- [statistics-seminar](https://github.com/lpazinovic/statistics-seminar): a statistical (both descriptive and inferential) analysis of S&P 500 stock trends and Google search trends.
+- [data-analysis-intro](https://github.com/lpazinovic/data-analysis-intro): a fairly simple data analysis project, which uses some statistics, polynomial regressions and k-means clustering.
